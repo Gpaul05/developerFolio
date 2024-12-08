@@ -262,7 +262,7 @@ If you can help us with these. Please don't hesitate to open a [pull request](ht
 
 - Connect with LinkedIn to get Summary, Skills, Education and Experience
 
-- Move to Gatsby
+- Move to Gatsby Pal
 
 - Add More Sections
 
